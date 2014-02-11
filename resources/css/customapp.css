@@ -1,0 +1,40 @@
+
+.dataview-item{
+   width : 33.33%;
+   height : 25%;
+   overflow: 'hidden';
+   border-right: 5px solid #000;
+   border-bottom: 5px solid #59535E;
+   border-top: 5px solid #59535E;
+   border-left: 5px solid #59535E;
+   float:left;   
+   padding:2px;
+}
+.arHeadline{
+    font-size: 16px;
+    font-weight:bold;
+    overflow:hidden;
+    font-family: 'Museo Sans';
+    color: #66ab16;
+}
+.arbyline{
+    font-size:20px;
+    float:bottom;
+    font-style:italic;
+    margin-top:5%;
+    font-family: 'Museo Sans';
+}
+#resultID{
+	font-size:20px;
+    font-style:italic;
+    margin-bottom:1%;
+    font-family: 'Museo Sans';
+}
+.arcontent{
+    font-size:40px;
+    font-family: 'Museo Sans';
+    font-weight:bold;
+    margin: 9px;
+    padding:20px;
+    overflow: hidden;
+}

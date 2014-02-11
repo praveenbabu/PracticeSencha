@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>PracticeSencha</name>
+	<comment></comment>
+	<projects>
+		<project>SenchaTouchTL-2.2</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.vjet.eclipse.core.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.vjet.core.nature</nature>
+	</natures>
+</projectDescription>
